@@ -1,0 +1,108 @@
+.box{
+    width: 1440px;
+    height: 70px;
+    background-color:#282829 ;
+    top: 15px;
+    right: 100px;
+    bottom: 15px;
+    left: 100px;
+    gap: 10px;
+    display: flex;
+}
+
+.text{
+    color: white;
+    justify-content: end;
+}
+
+.title{
+    text-align: center;
+}
+
+.next{
+    width: 393px;
+    height: 396px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
